@@ -1,1 +1,2 @@
-this is another samplejfj\
+this is another sample
+for my git hub

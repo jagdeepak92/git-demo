@@ -1,2 +1,1 @@
-this is a main classmethod
-kjfkjh\
+this is a main file lets see hoiw it works
